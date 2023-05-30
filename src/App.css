@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+#af,#pf,#fd{
+ 
+  background-color: linear-gradient(to right, #00AAFF, #b54779);
+}
